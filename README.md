@@ -1,4 +1,4 @@
-# WatterottRobotStarterKit
+# Watterott Robot Starter Kit
 Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 
 ## The minimum circuit:

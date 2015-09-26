@@ -33,7 +33,7 @@
 #define MID_SPEED 70
 #define TOP_SPEED 100
 
-WRSK_MotorControl motors(m1SpeedControl, m1DirectionControl, m2SpeedControl, m2DirectionControl, DEBUG_LEVEL);
+WRSK_MotorControl motors( m1DirectionControl, m1SpeedControl, m2DirectionControl, m2SpeedControl, DEBUG_LEVEL);
 WRSK_SharpSensor ir(SHARP_GP120, irSensPin, DEBUG_LEVEL);
 WRSK_UltrasonicSensor us(usEchoPin, usTriggerPin, DEBUG_LEVEL);
 

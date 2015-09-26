@@ -63,7 +63,7 @@
 int debugLevel = DEBUG_LEVEL;
 boolean DEBUGGING = true; // Whether debugging output over serial is on by defauly (can be flipped with 'h' command)
 
-WRSK_MotorControl motors(m1SpeedControl, m1DirectionControl, m2SpeedControl, m2DirectionControl, DEBUG_LEVEL);
+WRSK_MotorControl motors( m1DirectionControl, m1SpeedControl, m2DirectionControl, m2SpeedControl, DEBUG_LEVEL);
 WRSK_SharpSensor ir(SHARP_GP120, irSensPin, DEBUG_LEVEL);
 WRSK_UltrasonicSensor us(usEchoPin, usTriggerPin, DEBUG_LEVEL);
 
@@ -230,7 +230,7 @@ void initLineFollowPID()
 
 void initWallFollow()
 {
-  myServo.write(180);
+  myServo.write(90);
 }
 
 void initObstacleAvoid()

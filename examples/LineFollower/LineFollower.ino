@@ -41,7 +41,7 @@
 int debugLevel = DEBUG_LEVEL;
 boolean DEBUGGING = true; // Whether debugging output over serial is on by defauly (can be flipped with 'h' command)
 
-WRSK_MotorControl motors(m1SpeedControl, m1DirectionControl, m2SpeedControl, m2DirectionControl, DEBUG_LEVEL);
+WRSK_MotorControl motors( m1DirectionControl, m1SpeedControl, m2DirectionControl, m2SpeedControl, DEBUG_LEVEL);
 
 int speedMultiplier = DEFAULT_speedMultiplier; // Default speed setting. Uses a range from 1-10 
 

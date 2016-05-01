@@ -1,19 +1,47 @@
-# Watterott Robot Starter Kit
+# Watterott Robot Starter Kit (de)
+
+Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
+
+## Basis Variante:
+* Watterott Starter Robot Kit (WSRK) 
+* Arduino Uno + Arduino Motor Shield 
+* Sharp GP2D12 oderr GP2D120 Infrarot Distanz-Sensor an Pin A3
+* optional HC-SR04 Ultrascall Distanz Sensor an Pin 6, 7
+* optional Pololu QTR-3A analoger Linien-Sensor an Pin A0,A1,A2
+* USB cable
+
+## optionale Variante:
+* Watterott Starter Robot Kit (WSRK) 
+* Arduino Pro 5V + Arduino Motor Shield 
+* FTDI kompatibles USB serielles Mmodul/Kabel
+* Sharp GP2D12 oderr GP2D120 Infrarot Distanz-Sensor an Pin A3
+* optional HC-SR04 Ultrascall Distanz Sensor an Pin 6, 7
+* optional Pololu QTR-3A analoger Linien-Sensor an Pin A0,A1,A2
+* optional Adafruit Bluefruit EZ-Link Modul am FTDI connector (nur Arduino Pro)
+
+## Modifikationen
+
+*  [Motoren entstören]Modifikationen/Motoren-entstoeren-Mod.MD)
+
+## Erweiterungen
+
+
+## Links
+Für weitere Informationen  über Erweiterungen oder Modifications des Watterott Starter Robot
+besuchen sie: http://www.robotfreak.de
+
+Für Informationen zum Kauf des Watterott Starter Robot Kit (WSRK)
+besuchen sie:  http://www.watterott.com/de/StarterKit-Roboter
+
+# Watterott Robot Starter Kit (en)
+
 Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 
 ## The minimum circuit:
-<<<<<<< HEAD
 * Watterott Starter Robot Kit (WSRK) Arduino Uno + Arduino Motor Shield 
 * Sharp GP2D12 or GP2D120 Infrared distance sensor connected to A3
 * optional HC-SR04 Ultrasonic distance sensor connected to pin 6, 7
 * optional Pololu QTR-3A analog Line sensor connected to A0,A1,A2
-=======
-* Watterott Starter Robot Kit (WSRK) 
-* Arduino Uno + Arduino Motor Shield 
-* Sharp GP2D12 or GP2D120 Infrared distance sensor connected to A3
-* optional HC-SR04 Ultrasonic distance sensor connected to pin 6 (echo) , 7 (trigger)
-* optional Pololu QTR-3RC or QTR-3A Line sensor connected to A0,A1,A2
->>>>>>> origin/master
 * USB cable
 
 ## Alternative circuit:

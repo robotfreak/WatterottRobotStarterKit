@@ -21,7 +21,8 @@ Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 
 ## Modifikationen
 
-*  [Motoren entstören](Modifikationen/Motoren-entstoeren-Mod.MD)
+*  [Motoren entstören](Modifikationen/Motoren-Entstoeren-Mod.MD)
+*  [stärkere Motoren](Modifikationen/Staerkere-Motoren-Mod.MD)
 
 ## Erweiterungen
 

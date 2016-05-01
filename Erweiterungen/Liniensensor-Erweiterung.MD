@@ -21,7 +21,7 @@ Mit dieser  Erweiterung kann der Roboter einen schwarzen Linie auf weißem Unter
 
 ## Verdrahtung
 
-![Verdrahtung](../Fritzing/Line-Sensor-Erweiterung.png "Verdrahtung")
+![Verdrahtung](../Fritzing/Line-Sensor-Erweiterung_Steckplatine.png "Verdrahtung")
 
 ## Arduino Sketch
 

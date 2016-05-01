@@ -7,6 +7,7 @@ Bei dieser Variante wird die Batteriespannung mit Hilfe eines Step-Up Wandlers a
 
 Der Step-Up Wandler wird zwischen Batteriefach und der Stromversorgung für das Motor Shield mit eingebaut. Bei der Gelegenheit sollte man auch gleich einen Kippschalter zum Ein-/Ausschalten des Roboters  mit einbauen. Der Step-Up Wandler wird vor dem Anschließen an das Moto-Shield, mit Hilfe des Potentiometer auf eine Ausgangsspannung von 7.5V eingestellt. Zum einen liegt dieser Wert im empfohlenen Spannungsbereich von 7..12V für das Arduino Board und Motor Shield. Zum anderen fallen am Motor Treiber ca. 1.5V  ab, während die Motoren selbst für 6V ausgelegt sind. Dadurch liegt der ideale Wert bei 7.5V. Das Step-Up Wandler Modul passt noch sehr gut auf die Unterseite des Roboters hinter das Batteriefach. Einfach mit Heißkleber festkleben.
 
+![Kippschalter](images/Kippschalter-Mod.jpg "Kippschalter")
 
 ##Benötigte Bauteile:
 

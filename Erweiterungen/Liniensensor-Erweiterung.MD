@@ -19,6 +19,10 @@ Mit dieser  Erweiterung kann der Roboter einen schwarzen Linie auf weißem Unter
 * Die Verbindung Sensor / Arduino Shield erfolgt mit den Drähten, Buchsen- und Stiftleisten
 * Der Sensor wird mit den M2 Schrauben und Muttern und der Plexiglas Halterung am Roboter Starter Kt befestigt 
 
+## Verdrahtung
+
+![Verdrahtung](../Fritzing/Line-Sensor-Erweiterung.png "Verdrahtung")
+
 ## Arduino Sketch
 
 Es wird die Polou QTR Bibliothek benötigt

@@ -11,6 +11,9 @@ Die Bluetooth Erweiterung ermöglicht die Fernbedienung des Roboter über Blueto
 
 Leider funktioniert dies Erweiterung nicht so ohne weiteres mit dem Arduino Uno. Einfacher geht es mkt einem Arduino Pro. Dort kann man einfach das Bluetooth Modul an der 6-poligen FTDI -Stiftleite anstecken. fertig.
 
+![Bluetooth](images/Bluetooth-Modul.jpg "Bluetooth Modul")
+
+
 ## Verdrahtung
 
 ![Verdrahtung](../Fritzing/Bluetooth-Erweiterung_Steckplatine.png "Verdrahtung")

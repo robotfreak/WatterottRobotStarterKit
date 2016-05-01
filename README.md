@@ -60,6 +60,19 @@ Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 * optional Pololu QTR-3A analog Line sensor connected to A0,A1,A2
 * optional Adafruit Bluefruit EZ-Link Module connected to FTDI connector
 
+## Modifikations
+
+* [Motors](Modifikationen/Motoren-Entstoeren-Mod.MD)
+* [more powerfil Motors](Modifikationen/Staerkere-Motoren-Mod.MD)
+* [Servo Powersupply](Modifikationen/Servo-Stromversorgungs-Mod.MD)
+* [Sharp Powersupply](Modifikationen/Sharp-Sensor-Mod.MD)
+* [Powersupply](Modifikationen/Stromversorgungs-Mod.MD)
+
+## Expansions
+
+* [Ultrasonic Sensor](Erweiterungen/HC-SR04-Erweiterung.MD)
+* [Line Sensor](Erweiterungen/Liniensensor-Erweiterung.MD)
+* [Bluetooth](Erweiterungen/Bluetooth-Erweiterung.MD)
 ##Links
 For information about expansions or modifications of the Watterott Starter Robot
 visit http://www.robotfreak.de for more information

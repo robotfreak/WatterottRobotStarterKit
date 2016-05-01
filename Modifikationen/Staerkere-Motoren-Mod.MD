@@ -7,6 +7,7 @@ Etwas mehr Motorleistung gefällig? Hier kommt der Tuning Tip für mehr Power. D
 
 Für den Umbau werden die alten Motoren vom Getriebe entfernt. Die Motoren werden nur von einer Plastiklasche gehalten. Entfernt man diese vorsichtig, kann man die Motoren herausziehen. Das Motor-Ritzel lässt sich leicht mit einer Zange vom Motor abziehen und auf den neuen stärkeren Motor aufstecken. Den Motor wieder zurück in das Getriebe stecken und mit der Plastiklasche fixieren. Voila.
 
+![Motor-Austausch](images/Motor-Austausch-Mod.jpg "Motor-Austausch")
 
 ##Benötigte Bauteile:
 

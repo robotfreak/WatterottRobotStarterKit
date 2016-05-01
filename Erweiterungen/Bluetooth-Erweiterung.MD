@@ -16,7 +16,7 @@ Leider funktioniert dies Erweiterung nicht so ohne weiteres mit dem Arduino Uno.
 
 ## Verdrahtung
 
-![Verdrahtung](../Fritzing/Bluetooth-Erweiterung_Steckplatine.png "Verdrahtung")
+![Verdrahtung](../Fritzing/Bluetooth-Erweiterung_Steckplatine.png "Verdrahtung Arduino Pro")
 
 ## Arduino Sketch
 

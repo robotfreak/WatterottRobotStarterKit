@@ -2,7 +2,18 @@
 
 ## Was wird benötigt?
 
+* HC-SR04 Ultraschallsnesor
+* 4-polige Buchenleisten
+* 4-polige Stifleiste
+* 4 Drähte 15cm lang
+* Plexiglas Halterung (im Roboter Starer Kit enthalten)
+* Lötkolben, Seitenschneider
+
 ## Durchführung
+
+Der Sensor wird gemäß Verdrahtungs Schema verdrahtet und mit der Plexiglas Halterung am Servo Horn befestigt
+
+![Sensor](images/HC-SR04-Mod.jpg "Sensor")
 
 ## Verdrahtung
 

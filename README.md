@@ -21,14 +21,17 @@ Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 
 ## Modifikationen
 
-*  [Motoren entstören](Modifikationen/Motoren-Entstoeren-Mod.MD)
-*  [stärkere Motoren](Modifikationen/Staerkere-Motoren-Mod.MD)
-*  [Servo Stromversorgung](Modifikationen/Servo-Stromversorgung-Mod.MD)
-*  [Sharp Stromversorgung](Modifikationen/Sharp-Sensor-Mod.MD)
-*  [Stromversorgung](Modifikationen/Stromversorgungs-Mod.MD)
+* [Motoren entstören](Modifikationen/Motoren-Entstoeren-Mod.MD)
+* [stärkere Motoren](Modifikationen/Staerkere-Motoren-Mod.MD)
+* [Servo Stromversorgung](Modifikationen/Servo-Stromversorgungs-Mod.MD)
+* [Sharp Stromversorgung](Modifikationen/Sharp-Sensor-Mod.MD)
+* [Stromversorgung](Modifikationen/Stromversorgungs-Mod.MD)
 
 ## Erweiterungen
 
+* [Ultraschall Sensor](Erweiterungen/HC-SR04-Erweiterung.MD)
+* [Linien Sensor](Erweiterungen/Liniensensor-Erweiterung.MD)
+* [Bluetooth](Erweiterungen/Bluetooth-Erweiterung.MD)
 
 ## Links
 Für weitere Informationen  über Erweiterungen oder Modifications des Watterott Starter Robot

@@ -1,11 +1,12 @@
 # Bluetooth Erweiterung
 
-Die Bluetooth Erweiterung ermöglicht die Fernbedienung des Roboter über Bluetooth. Mit dem Adafruit BLuetooth EZ-Link ist es auch möglcih, den Arduino über Bluetooth zu programmieren.
+Die Bluetooth Erweiterung ermöglicht die Fernbedienung des Roboter über Bluetooth. Mit dem Adafruit BLuetooth EZ-Link ist es auch möglich, den Arduino über Bluetooth zu programmieren.
 
 ## Was wird benötigt?
 
 * Adafruit Bluetooth EZ Link Modul
 * Arduino Pro 5V/16MHz
+* oder 10polige Stiftleiste, 100nF Kondensator für Arduino Uno
 
 ## Durchführung
 
@@ -14,9 +15,15 @@ Leider funktioniert dies Erweiterung nicht so ohne weiteres mit dem Arduino Uno.
 ![Bluetooth](images/Bluetooth-Modul.jpg "Bluetooth Modul")
 
 
-## Verdrahtung
+## Verdrahtung Arduino Pro
 
-![Verdrahtung](../Fritzing/Bluetooth-Erweiterung_Steckplatine.png "Verdrahtung Arduino Pro")
+![Verdrahtung Pro](../Fritzing/Bluetooth-Erweiterung_Steckplatine.png "Verdrahtung Arduino Pro")
+
+## Verdrahtung Arduino Uno
+
+![Verdrahtung Uno](../Fritzing/Bluetooth-Erweiterung-Uno_Steckplatine.png "Verdrahtung Arduino Uno")
+
+
 
 ## Arduino Sketch
 

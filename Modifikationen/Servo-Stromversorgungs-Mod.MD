@@ -4,6 +4,8 @@ Der Servo für den Front-Sensor ist eine weitere Störquelle. Beim Anfahren zieh
 
 Der Elko wird auf die Rückseite des Motor Shields auf die Anschlüsse von Out ~6 gelötet. Dabei muss die Polung des Elkos berücksichtigt werden. 
 
+![Servospannung](images/Servo-Spannung-Mod.jpg "Servospannung")
+
 ##Benötigte Bauteile:
 
 * <a href="http://www.reichelt.de/Elkos-radial-105-C-1000-5000h/RAD-FC-1-000-10/3//index.html?ACTION=3&GROUPID=4000&ARTICLE=84694&OFFSET=16&WKID=0&">Elko radial, 105°C, low ESR, 1000µF, 10V</a

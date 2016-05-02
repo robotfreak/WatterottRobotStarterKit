@@ -2,22 +2,20 @@
 
 Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 
-## Basis Variante:
+## Basis Ausstattung:
 * Watterott Starter Robot Kit (WSRK) 
-* Arduino Uno + Arduino Motor Shield 
-* Sharp GP2D12 oderr GP2D120 Infrarot Distanz-Sensor an Pin A3
-* optional HC-SR04 Ultrascall Distanz Sensor an Pin 6, 7
-* optional Pololu QTR-3A analoger Linien-Sensor an Pin A0,A1,A2
+* Arduino Uno 
+* Arduino Motor Shield 
+* Sharp GP2D12/GP2D120/GP2Y0A21YK0F Infrarot Distanz-Sensor an Pin A3
+* Servo an Pin D3
 * USB cable
 
-## optionale Variante:
-* Watterott Starter Robot Kit (WSRK) 
-* Arduino Pro 5V + Arduino Motor Shield 
-* FTDI kompatibles USB serielles Mmodul/Kabel
-* Sharp GP2D12 oderr GP2D120 Infrarot Distanz-Sensor an Pin A3
+## optionale Ausstattung:
 * optional HC-SR04 Ultrascall Distanz Sensor an Pin 6, 7
 * optional Pololu QTR-3A analoger Linien-Sensor an Pin A0,A1,A2
-* optional Adafruit Bluefruit EZ-Link Modul am FTDI connector (nur Arduino Pro)
+* optional Adafruit Bluefruit EZ-Link Modul
+* Arduino Pro 5V anstelle Arduino Uno für einfachere Bluetooth Anbindung
+* FTDI kompatibles USB serielles Modul/Kabel für Arduino Pro
 
 ## Modifikationen
 
@@ -44,21 +42,20 @@ besuchen sie:  http://www.watterott.com/de/StarterKit-Roboter
 
 Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 
-## The minimum circuit:
-* Watterott Starter Robot Kit (WSRK) Arduino Uno + Arduino Motor Shield 
-* Sharp GP2D12 or GP2D120 Infrared distance sensor connected to A3
-* optional HC-SR04 Ultrasonic distance sensor connected to pin 6, 7
-* optional Pololu QTR-3A analog Line sensor connected to A0,A1,A2
+## Basic Parts:
+* Watterott Starter Robot Kit (WSRK) 
+* Arduino Uno 
+* Arduino Motor Shield 
+* Sharp GP2D12/GP2D120/GP2Y0A21YK0F Infrared distance sensor connected to A3
+* Servo connecte to Pin D3
 * USB cable
 
-## Alternative circuit:
-* Watterott Starter Robot Kit (WSRK) 
-* Arduino Pro 5V + Arduino Motor Shield 
-* FTDI compatible USB serial module/cable
-* Sharp GP2D12 or GP2D120 Infrared distance sensor connected to A3
+## Optional Parts:
 * optional HC-SR04 Ultrasonic distance sensor connected to pin 6, 7
 * optional Pololu QTR-3A analog Line sensor connected to A0,A1,A2
-* optional Adafruit Bluefruit EZ-Link Module connected to FTDI connector
+* optional Adafruit Bluefruit EZ-Link Module
+* Arduino Pro 5V instead of Arduno Uno for easy Bluetooth connection
+* FTDI compatible USB serial module/cable for Arduino Pro
 
 ## Modifikations
 

@@ -1,6 +1,6 @@
-# Watterott Robot Starter Kit (de)
+# Watterott Robot Starter Kit v2 (de)
 
-Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
+Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit v2
 
 ![Watterott Roboter](Modifikationen/images/watterott-roboter.jpg "Watterott Roboter")
 
@@ -42,9 +42,9 @@ besuchen sie: http://www.robotfreak.de
 Für Informationen zum Kauf des Watterott Starter Robot Kit (WSRK)
 besuchen sie:  http://www.watterott.com/de/StarterKit-Roboter
 
-# Watterott Robot Starter Kit (en)
+# Watterott Robot Starter Kit v2 (en)
 
-Arduino Library &amp; Examples for the Watterott Robot Starter Kit
+Arduino Library &amp; Examples for the Watterott Robot Starter Kit v2
 
 ## Basic Parts:
 * Watterott Starter Robot Kit (WSRK) acrylic chassis, motors and wheels

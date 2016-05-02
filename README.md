@@ -3,12 +3,12 @@
 Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 
 ## Basis Ausstattung:
-* Watterott Starter Robot Kit (WSRK) Plexiglas Chassis
+* Watterott Starter Robot Kit (WSRK) Plexiglas Chassis, Motoren und Räder
 * Arduino Uno 
 * Arduino Motor Shield 
 * Sharp GP2Y0A21YK0F Infrarot Distanz-Sensor an Pin A3
 * Servo an Pin D5
-* USB cable
+* USB Kabel
 
 ## optionale Ausstattung:
 * optional HC-SR04 Ultrascall Distanz Sensor an Pin D6, D7
@@ -44,7 +44,7 @@ besuchen sie:  http://www.watterott.com/de/StarterKit-Roboter
 Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 
 ## Basic Parts:
-* Watterott Starter Robot Kit (WSRK) acrylic chassis
+* Watterott Starter Robot Kit (WSRK) acrylic chassis, motors and wheels
 * Arduino Uno 
 * Arduino Motor Shield 
 * Sharp GP2Y0A21YK0F Infrared distance sensor connected to A3

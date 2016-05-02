@@ -6,7 +6,7 @@ Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 * Watterott Starter Robot Kit (WSRK) 
 * Arduino Uno 
 * Arduino Motor Shield 
-* Sharp GP2D12/GP2D120/GP2Y0A21YK0F Infrarot Distanz-Sensor an Pin A3
+* Sharp GP2Y0A21YK0F Infrarot Distanz-Sensor an Pin A3
 * Servo an Pin D5
 * USB cable
 
@@ -47,7 +47,7 @@ Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 * Watterott Starter Robot Kit (WSRK) 
 * Arduino Uno 
 * Arduino Motor Shield 
-* Sharp GP2D12/GP2D120/GP2Y0A21YK0F Infrared distance sensor connected to A3
+* Sharp GP2Y0A21YK0F Infrared distance sensor connected to A3
 * Servo connected to Pin D5
 * USB cable
 

@@ -2,6 +2,9 @@
 
 Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 
+![Watterott Roboter](Modifikationen/images/watterott-roboter.jpg "Watterott Roboter")
+
+
 ## Basis Ausstattung:
 * Watterott Starter Robot Kit (WSRK) Plexiglas Chassis, Motoren und Räder
 * Arduino Uno 

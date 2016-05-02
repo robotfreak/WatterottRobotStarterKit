@@ -32,6 +32,7 @@ Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit
 * [Bluetooth](Erweiterungen/Bluetooth-Erweiterung.MD)
 
 ## Links
+
 Für weitere Informationen  über Erweiterungen oder Modifications des Watterott Starter Robot
 besuchen sie: http://www.robotfreak.de
 
@@ -70,7 +71,9 @@ Arduino Library &amp; Examples for the Watterott Robot Starter Kit
 * [Ultrasonic Sensor](Erweiterungen/HC-SR04-Erweiterung.MD)
 * [Line Sensor](Erweiterungen/Liniensensor-Erweiterung.MD)
 * [Bluetooth](Erweiterungen/Bluetooth-Erweiterung.MD)
-##Links
+
+## Links
+
 For information about expansions or modifications of the Watterott Starter Robot
 visit http://www.robotfreak.de for more information
 

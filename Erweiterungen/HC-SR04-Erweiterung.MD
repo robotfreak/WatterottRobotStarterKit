@@ -1,10 +1,12 @@
 # Ultraschallsensor Erweiterung
 
+Der Ultraschall Sensor kann anstelle des Sharp Infrarotsensors eingesetzt werden. Der Sensor hat einen breiteren Erfassungswinkel. Auf das Scannen der Umgebung mit dem Servo kann weitestgehend verzichtet werden.
+
 ## Was wird benötigt?
 
-* HC-SR04 Ultraschallsnesor
-* 4-polige Buchenleisten
-* 4-polige Stifleiste
+* HC-SR04 Ultraschallsensor
+* 4-polige Buchsenleisten
+* 4-polige Stiftleiste
 * 4 Drähte 15cm lang
 * Plexiglas Halterung (im Roboter Starer Kit enthalten)
 * Lötkolben, Seitenschneider

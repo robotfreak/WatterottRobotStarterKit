@@ -30,7 +30,7 @@ Arduino Bibliothek und Beispiele für das Watterott Robot Starter Kit v2
 
 ## Erweiterungen
 
-* [Ultraschall Sensor](Erweiterungen/HC-SR04-Erweiterung.MD)
+* [Ultraschall Sensor](Erweiterungen/Ultraschallsensor-Erweiterung.MD)
 * [Linien Sensor](Erweiterungen/Liniensensor-Erweiterung.MD)
 * [Bluetooth](Erweiterungen/Bluetooth-Erweiterung.MD)
 

@@ -33,7 +33,7 @@ Mit dieser  Erweiterung kann der Roboter einen schwarzen Linie auf weißem Unter
 
 ## Arduino Sketch
 
-Es wird die Polou QTR Bibliothek benötigt
+Es wird die Pololu QTR Bibliothek benötigt: https://github.com/pololu/qtr-sensors-arduino
 
 ```arduino
 /*

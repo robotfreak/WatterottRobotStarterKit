@@ -25,8 +25,6 @@ Mit dieser  Erweiterung kann der Roboter einen schwarzen Linie auf weißem Unter
 
 ![Sensor Halterung](images/Line-Sensor-Halterung.jpg "Sensor Halterung")
 
-![Sensor Verdrahtung](images/Line-Sensor-Verdahtung.jpg "Sensor Verdrahtung")
-
 ## Verdrahtung
 
 ![Verdrahtung](../Fritzing/Line-Sensor-Erweiterung_Steckplatine.png "Verdrahtung")
